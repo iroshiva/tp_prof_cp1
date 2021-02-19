@@ -4,6 +4,7 @@ Le projet porte sur l'élaboration d'un début de cahier des charges (définitio
 
 ### Définition du projet
 
+
 Fun Park est un projet de reprise d'un parc aventure préexistant.<br/>
 Toutes les activités seront conservées:  
 - Accrobranche<br/>
@@ -33,6 +34,7 @@ Toutes les activités seront conservées:
 Chaque activité pourra être réservée individuellement ou réservée avec d'autres activités.
 
 A la vue de travaux à effectuer pour certaines activités, une liste des activités "ouvertes au public" sera donné par le client.<br/>
+
 
 ### Wireframes
 
