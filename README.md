@@ -12,20 +12,20 @@ Toutes les activités seront conservées:
 -> Paintball<br/>
 -> Laser tag<br/>
 -> Parcours aventure en forêt<br/>
-Chasse au trésor<br/>
-Course d’orientation<br/>
-Randonnée<br/>
-Raid aventure<br/>
-Géocaching<br/>
-Gyropode<br/>
+..* Chasse au trésor<br/>
+..* Course d’orientation<br/>
+..* Randonnée<br/>
+..* Raid aventure<br/>
+..* Géocaching<br/>
+..* Gyropode<br/>
 -> Trampoline<br/>
 -> Mini golf<br/>
 -> Parc aquatique<br/>
-Canoes<br/>
-Pédalos<br/>
-Paddle<br/>
-Wakeboard<br/>
-Kneeboard<br/>
-Ski nautique<br/>
-Bouée tractée<br/>
+..* Canoes<br/>
+..* Pédalos<br/>
+..* Paddle<br/>
+..* Wakeboard<br/>
+..* Kneeboard<br/>
+..* Ski nautique<br/>
+..* Bouée tractée<br/>
 -> Accueil de groupes (anniversaires, EVJF/G, séminaires, ...)
