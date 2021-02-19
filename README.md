@@ -2,8 +2,8 @@
 
 Le projet porte sur l'élaboration d'un début de cahier des charges (définition du projet, wireframes pour la homepage, users stories) en vue de la création d'un site pour un parc aventure :
 
+<br/>
 ### Définition du projet
-
 
 Fun Park est un projet de reprise d'un parc aventure préexistant.<br/>
 Toutes les activités seront conservées:  
@@ -35,13 +35,13 @@ Chaque activité pourra être réservée individuellement ou réservée avec d'a
 
 A la vue de travaux à effectuer pour certaines activités, une liste des activités "ouvertes au public" sera donné par le client.<br/>
 
-
+<br/>
 ### Wireframes
 
 Des wireframes ont été réalisés pour la Homepage avec Whimsical. (cf dossier wireframes)<br/>
 Pour gérer le responsive, 3 formats ont été faits : mobile, tablette, et desktop.
 
-
+<br/>
 ### User stories
 
 Des user stories ont été rédigées pour un utilisateur visiteur et administrateur (cf fichier user-stories.md)
