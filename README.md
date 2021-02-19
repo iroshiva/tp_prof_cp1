@@ -2,27 +2,22 @@
 
 Le projet porte sur l'élaboration d'un début de cahier des charges en vue de la création d'un site pour un parc aventure :
 
-#### Définition du projet
+### Définition du projet
 
 Fun Park est un projet de reprise d'un parc aventure préexistant.<br/>
 Toutes les activités seront conservées:  
 <br/>
 
 -> Accrobranche
-<br/>
-<br/>
+<br/><br/>
 -> Tyrolienne
-<br/>
-<br/>
+<br/><br/>
 -> Paintball
-<br/>
-<br/>
+<br/><br/>
 -> Laser tag
-<br/>
-<br/>
+<br/><br/>
 -> Parcours aventure en forêt
-<br/>
-<br/>
+<br/><br/>
 Chasse au trésor
 <br/>
 Course d’orientation
@@ -34,8 +29,7 @@ Raid aventure
 Géocaching
 <br/>
 Gyropode
-<br/>
-<br/>
+<br/><br/>
 -> Trampoline
 <br/><br/>
 -> Mini golf
