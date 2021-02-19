@@ -28,4 +28,10 @@ Toutes les activités seront conservées:
 -> Kneeboard<br/>
 -> Ski nautique<br/>
 -> Bouée tractée<br/>
-- Accueil de groupes (anniversaires, EVJF/G, séminaires, ...)
+- Accueil de groupes (anniversaires, EVJF/G, séminaires, ...)<br/>
+- Possibilité de se restaurer sur place (restaurant, snack)<br/>
+
+Chaque activité pourra être réservée individuellement ou réservées avec d'autres activités.
+
+A la vue de travaux à effectuer pour certaines activités, une liste des activités "ouvertes au public" sera donné par le client.<br/>
+
