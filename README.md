@@ -31,7 +31,7 @@ Toutes les activités seront conservées:
 - Accueil de groupes (anniversaires, EVJF/G, séminaires, ...)<br/>
 - Possibilité de se restaurer sur place (restaurant, snack)<br/>
 
-Chaque activité pourra être réservée individuellement ou réservée avec d'autres activités.
+Chaque activité pourra être réservée individuellement ou réservée avec d'autres activités, sur place ou sur le site.
 
 A la vue de travaux à effectuer pour certaines activités, une liste des activités "ouvertes au public" sera donné par le client.<br/><br/>
 
