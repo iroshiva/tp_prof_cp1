@@ -1,12 +1,11 @@
 # FunPark
 
-Le projet porte sur l'élaboration d'un début de cahier des charges en vue de la création d'un site pour un parc aventure :
+Le projet porte sur l'élaboration d'un début de cahier des charges (définition du projet, wireframes pour la homepage, users stories) en vue de la création d'un site pour un parc aventure :
 
 ### Définition du projet
 
 Fun Park est un projet de reprise d'un parc aventure préexistant.<br/>
 Toutes les activités seront conservées:  
-<br/>
 - Accrobranche<br/>
 - Tyrolienne<br/>
 - Paintball<br/>
@@ -31,7 +30,7 @@ Toutes les activités seront conservées:
 - Accueil de groupes (anniversaires, EVJF/G, séminaires, ...)<br/>
 - Possibilité de se restaurer sur place (restaurant, snack)<br/>
 
-Chaque activité pourra être réservée individuellement ou réservées avec d'autres activités.
+Chaque activité pourra être réservée individuellement ou réservée avec d'autres activités.
 
 A la vue de travaux à effectuer pour certaines activités, une liste des activités "ouvertes au public" sera donné par le client.<br/>
 
