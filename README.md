@@ -36,7 +36,7 @@ A la vue de travaux à effectuer pour certaines activités, une liste des activi
 
 ### Wireframes
 
-Des wireframes ont été réalisés pour la Homepage avec Whimsical. (cf dossier wireframes)
+Des wireframes ont été réalisés pour la Homepage avec Whimsical. (cf dossier wireframes)<br/>
 Pour gérer le responsive, 3 formats ont été faits : mobile, tablette, et desktop.
 
 
