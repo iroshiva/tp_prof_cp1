@@ -14,5 +14,4 @@
 | administrateur | Je veux pouvoir me connecter au backoffice de mon site | afin de pouvoir administrer le site |
 | administrateur | Je veux pouvoir administrer mes activités | afin de pouvoir en créer, éditer, supprimer |
 | administrateur | Je veux pouvoir administrer mes évènements | afin de pouvoir en créer, éditer, supprimer |
-| administrateur | Je veux pouvoir administrer mes réservations | afin de pouvoir organiser mon staff |
-| ??? | ??? | ??? |
+| administrateur | Je veux pouvoir administrer mes réservations | afin de pouvoir organiser mon staff en fonction |
