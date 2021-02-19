@@ -33,7 +33,7 @@ Toutes les activités seront conservées:
 
 Chaque activité pourra être réservée individuellement ou réservée avec d'autres activités.
 
-A la vue de travaux à effectuer pour certaines activités, une liste des activités "ouvertes au public" sera donné par le client.<br/>
+A la vue de travaux à effectuer pour certaines activités, une liste des activités "ouvertes au public" sera donné par le client.<br/><br/>
 
   
 ### Wireframes
