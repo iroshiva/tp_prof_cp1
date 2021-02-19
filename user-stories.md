@@ -11,6 +11,7 @@
 | visiteur | Je veux pouvoir contacter le parc | afin de pouvoir poser une question, faire une remarque, etc |
 | visiteur | Je veux pouvoir voir les mentions légales | |
 | visiteur | Je veux pouvoir voir la section a propos | afin d'en savoir plus sur l'histoire du parc et mettre des visages sur ses propriétaires et le staff |
+| administrateur | Je veux pouvoir accéder à tout ce que peut accéder le visiteur |  |
 | administrateur | Je veux pouvoir me connecter au backoffice de mon site | afin de pouvoir administrer le site |
 | administrateur | Je veux pouvoir administrer mes activités | afin de pouvoir en créer, éditer, supprimer |
 | administrateur | Je veux pouvoir administrer mes évènements | afin de pouvoir en créer, éditer, supprimer |
