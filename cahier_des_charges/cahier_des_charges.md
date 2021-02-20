@@ -45,19 +45,19 @@ Les objectifs seront :
 - rendre le parcours utilisateur le plus simple possible
 - intégrer la langue anglaise et allemande en plus du français
 - intégrer une nouveau système de réservation et paiement
-- dynamiser le site en particulier en intégrant une carte interactive du parc
+- dynamiser le site en particulier en intégrant une carte interactive du parc<br/><br/>
 
 
 ### Définition de la cible du projet
 
 Le public visé est transgénérationnel.
 Situé tout près de l'Allemagne, Fun Park s'adresse également à ses voisins germanophones.
-Avec le développement des sports tractés du parc aquatique, Fun Park peut aussi prétendre intéresser un public venant de Suisse, de Belgique et du Luxembourg.
+Avec le développement des sports tractés du parc aquatique, Fun Park peut aussi prétendre intéresser un public venant de Suisse, de Belgique et du Luxembourg.<br/><br/>
 
 
 ### User stories
 
-Des user stories ont été rédigées pour un utilisateur visiteur et administrateur (cf user-stories.md)
+Des user stories ont été rédigées pour un utilisateur visiteur et administrateur (cf user-stories.md)<br/><br/>
 
 ### Les fonctionnalités du projet
 
@@ -82,7 +82,7 @@ Il s'agira:
 - d'ajouter les nouvelles activités "ouvertes au public"
 - d'intégrer la carte interactive du parc
 - d'ajouter la langue allemande et anglaise
-- d'ajouter la création d'évènements 
+- d'ajouter la création d'évènements<br/><br/>
 
 
 ### Technololgies utilisées pour le projet
@@ -92,7 +92,7 @@ Afin d'élaborer le site internet de Fun Park, les technologies suivantes seront
 - un template Wordpress le front-end
 - le plugin WPML pour le multilingue
 - Mapplic pour la carte interactive
-- intégration de Guidap pour les modules de réservation et paiement
+- intégration de Guidap pour les modules de réservation et paiement<br/><br/>
 
 
 ### Arborescence de l'application
