@@ -11,9 +11,8 @@ Le chahier des charges comprendra:
 - la définition des fonctionnalités du projet
 - les users stories
 - les technologies utilisées
-- l'arborescence du site
+- l'arborescence du site<br/>
 
-<br/>
 ### Wireframes
 
 Des wireframes ont été réalisés pour la Homepage avec Whimsical. (cf dossier wireframes)<br/>
