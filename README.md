@@ -2,9 +2,9 @@
 
 Le projet porte sur l'élaboration d'un cahier des charges et la création de wireframes en vue de la création d'un site pour un parc aventure :<br/><br/>
 
-### Cahier des charges (cf dossier cahier des charges)
+### Cahier des charges 
 
-Le chahier des charges comprendra:
+Le cahier des charges comprendra:(cf dossier cahier des charges)
 - la présentation du projet
 - la définition des besoins et objectifs du projet
 - la définition de la cible du projet
