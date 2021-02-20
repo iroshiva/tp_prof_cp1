@@ -11,7 +11,7 @@ Le chahier des charges comprendra:
 - la définition des fonctionnalités du projet
 - les users stories
 - les technologies utilisées
-- l'arborescence du site<br/>
+- l'arborescence du site<br/><br/>
 
 ### Wireframes
 
