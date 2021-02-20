@@ -13,6 +13,7 @@ Le chahier des charges comprendra:
 - les technologies utilisées
 - l'arborescence du site
 
+<br/>
 ### Wireframes
 
 Des wireframes ont été réalisés pour la Homepage avec Whimsical. (cf dossier wireframes)<br/>
